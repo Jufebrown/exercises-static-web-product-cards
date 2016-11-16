@@ -13,6 +13,7 @@ article {
 	display: inline-block flex;
 	margin: 1.5%;
 	justify-content: center;
+	box-shadow: 3px 3px 5px rgba(0,0,0,.5);
 }
 
 img {
